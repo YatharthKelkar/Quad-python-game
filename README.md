@@ -61,7 +61,6 @@ Contributions are welcome! If you want to contribute or add new games to this co
 
 <h2>📧 Contact</h2>
 For any questions, suggestions, or feedback, feel free to reach out via email at:
-<hr>
 kelkaryatharth@gmail.com or kelkaryatharth1@gmail.com
 <hr>
 Enjoy your gaming experience! 😎🎮
